@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "cpuifabric",
+  "version": "1.0.0",
+  "name": "Cpuifabric (Color Picker UI Fabric)",
+  "description": "A mod that adds a color picker UI to Minecraft with keybind H.",
+  "entrypoints": {
+    "client": [
+      "com.csl.cpuifabric.CpuifabricMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.12.5",
+    "minecraft": "1.21"
+  }
+}
