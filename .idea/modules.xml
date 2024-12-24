@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ColorPickerUtil.client.iml" filepath="$PROJECT_DIR$/.idea/modules/ColorPickerUtil.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ColorPickerUtil.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ColorPickerUtil.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ColorPickerUtil.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ColorPickerUtil.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cpuifabric.client.iml" filepath="$PROJECT_DIR$/.idea/modules/cpuifabric.client.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cpuifabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cpuifabric.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cpuifabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cpuifabric.test.iml" />

@@ -6,11 +6,11 @@
   "description": "A mod that adds a color picker UI to Minecraft with keybind H.",
   "entrypoints": {
     "client": [
-      "com.csl.cpuifabric.CpuifabricMod"
+      "com.csl.cpuifabric.ColorPickerUtil",
     ]
   },
   "depends": {
-    "fabricloader": ">=0.12.5",
-    "minecraft": "1.21"
+    "fabricloader": ">=0.14.21",
+    "minecraft": "1.21.4"
   }
 }
